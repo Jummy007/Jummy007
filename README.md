@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋. I'm Bunmi.
 
-<!--
-**Jummy007/Jummy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nigerian+Software+Developer;Graphics+Designer;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- :man: I am a software developer specifying majorly in frontend website development, well-versed in numerous programming languages including HTML5, CSS, SCSS, Bootstrap, JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :blossom: I am smart, young, hardworking and self motivating.
+
+
+- :trident: I am passionate about web and mobile technologies with great eye for superb user experience.
+- 👯 I enjoy collaborating and participating in team discussions and planning.
+- 🌱 I’m currently learning Javascript at African Trainovation Consulting Limited.
+- 🤔 I’m on the lookout for Internships and entry level roles (Frontend).
+- 📫 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/oluwabunmi gbemisoye) [![linkedin]https://www.linkedin.com/in/oluwabunmi-gbemisoye-053a7822a/[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabunmi gbemisoye/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//a.d.e.j.u.m.o.k.e/)
+
+- ⚡ Fun fact: Aside Coding, I enjoy making creative designs and illustrations with Coreldraw 💻 ,and Web-surfing 💻.
