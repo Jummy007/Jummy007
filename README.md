@@ -11,6 +11,6 @@
 - 👯 I enjoy collaborating and participating in team discussions and planning.
 - 🌱 I’m currently learning Javascript at African Trainovation Consulting Limited.
 - 🤔 I’m on the lookout for Internships and entry level roles (Frontend).
-- 📫 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/oluwabunmi gbemisoye) [![linkedin]https://www.linkedin.com/in/oluwabunmi-gbemisoye-053a7822a/[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabunmi gbemisoye/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//a.d.e.j.u.m.o.k.e/)
+-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100019142349998)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabunmi-gbemisoye-053a7822a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.d.e.j.u.m.o.k.e/)
 
-- ⚡ Fun fact: Aside Coding, I enjoy making creative designs and illustrations with Coreldraw 💻 ,and Web-surfing 💻.
+
