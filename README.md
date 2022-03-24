@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Bunmi.
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nigerian+Software+Developer;Graphics+Designer;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nigerian+Software+Developer;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 - :man: I am a software developer specifying majorly in frontend website development, well-versed in numerous programming languages including HTML5, CSS, SCSS, Bootstrap, JavaScript.
 
